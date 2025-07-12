@@ -73,6 +73,8 @@ nav ul{
   justify-content: space-between;
   margin:0 35px 0 230px; 
 }
-/* img{
-    background-image: url();
-} */
+.header{
+    background-image: url(../images/developer.png),url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right  ;
+}
